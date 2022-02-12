@@ -5,13 +5,13 @@
 #### useState
 
 1. Birthday Reminder 
-   [Projects Site](https://react-projects-1-birthday-reminder.netlify.app/)
+   [Project Site](https://react-projects-1-birthday-reminder.netlify.app/)
 
 #### useEffect and Conditional Rendering
 
-1. Tours  [Projects Site](https://react-projects-2-tours.netlify.app/)   
-2. Reviews
-3. Questions
+1. Tours  [Project Site](https://react-projects-2-tours.netlify.app/)
+2. Reviews [Project Site](https://react-projects-3-reviews.netlify.app/)
+3. Questions [Project Site](https://react-projects-4-accordion.netlify.app/)
 4. Menu
 5. Tabs
 6. Slider
