@@ -13,7 +13,7 @@
 2. Reviews [Project Site](https://react-projects-3-reviews.netlify.app/)
 3. Questions [Project Site](https://react-projects-4-accordion.netlify.app/)
 4. Menu [Project Site](https://react-projects-5-menu.netlify.app/)
-5. Tabs
+5. Tabs [Project Site](https://react-projects-6-tabs.netlify.app/)
 6. Slider
 
 #### Forms
