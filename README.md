@@ -19,7 +19,7 @@
 #### Forms
 
 8. Lorem Ipsum Generator [Project Site](https://react-projects-8-lorem-ipsum-generator.netlify.app/)
-9. Color Shades Generator
+9. Color Shades Generator [Project Site](https://react-projects-9-color-generator.netlify.app/)
 10. Grocery Bud
 
 #### useRef
